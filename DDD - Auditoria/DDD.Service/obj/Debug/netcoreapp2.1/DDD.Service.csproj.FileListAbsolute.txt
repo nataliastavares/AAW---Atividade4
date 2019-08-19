@@ -1,0 +1,28 @@
+C:\Users\1174755\DDD\DDD.Service\bin\Debug\netcoreapp2.1\DDD.Service.deps.json
+C:\Users\1174755\DDD\DDD.Service\bin\Debug\netcoreapp2.1\DDD.Service.dll
+C:\Users\1174755\DDD\DDD.Service\bin\Debug\netcoreapp2.1\DDD.Service.pdb
+C:\Users\1174755\DDD\DDD.Service\bin\Debug\netcoreapp2.1\DDD.Domain.dll
+C:\Users\1174755\DDD\DDD.Service\bin\Debug\netcoreapp2.1\DDD.Infra.Data.dll
+C:\Users\1174755\DDD\DDD.Service\bin\Debug\netcoreapp2.1\DDD.Domain.pdb
+C:\Users\1174755\DDD\DDD.Service\bin\Debug\netcoreapp2.1\DDD.Infra.Data.pdb
+C:\Users\1174755\DDD\DDD.Service\obj\Debug\netcoreapp2.1\DDD.Service.csprojAssemblyReference.cache
+C:\Users\1174755\DDD\DDD.Service\obj\Debug\netcoreapp2.1\DDD.Service.csproj.CoreCompileInputs.cache
+C:\Users\1174755\DDD\DDD.Service\obj\Debug\netcoreapp2.1\DDD.Service.AssemblyInfoInputs.cache
+C:\Users\1174755\DDD\DDD.Service\obj\Debug\netcoreapp2.1\DDD.Service.AssemblyInfo.cs
+C:\Users\1174755\DDD\DDD.Service\obj\Debug\netcoreapp2.1\DDD.Service.csproj.CopyComplete
+C:\Users\1174755\DDD\DDD.Service\obj\Debug\netcoreapp2.1\DDD.Service.dll
+C:\Users\1174755\DDD\DDD.Service\obj\Debug\netcoreapp2.1\DDD.Service.pdb
+C:\Users\638228\Desktop\AAW - Atividade 04-20190710T225844Z-001\AAW - Atividade 04\DDD\DDD.Service\bin\Debug\netcoreapp2.1\DDD.Service.deps.json
+C:\Users\638228\Desktop\AAW - Atividade 04-20190710T225844Z-001\AAW - Atividade 04\DDD\DDD.Service\bin\Debug\netcoreapp2.1\DDD.Service.dll
+C:\Users\638228\Desktop\AAW - Atividade 04-20190710T225844Z-001\AAW - Atividade 04\DDD\DDD.Service\bin\Debug\netcoreapp2.1\DDD.Service.pdb
+C:\Users\638228\Desktop\AAW - Atividade 04-20190710T225844Z-001\AAW - Atividade 04\DDD\DDD.Service\bin\Debug\netcoreapp2.1\DDD.Domain.dll
+C:\Users\638228\Desktop\AAW - Atividade 04-20190710T225844Z-001\AAW - Atividade 04\DDD\DDD.Service\bin\Debug\netcoreapp2.1\DDD.Infra.Data.dll
+C:\Users\638228\Desktop\AAW - Atividade 04-20190710T225844Z-001\AAW - Atividade 04\DDD\DDD.Service\bin\Debug\netcoreapp2.1\DDD.Domain.pdb
+C:\Users\638228\Desktop\AAW - Atividade 04-20190710T225844Z-001\AAW - Atividade 04\DDD\DDD.Service\bin\Debug\netcoreapp2.1\DDD.Infra.Data.pdb
+C:\Users\638228\Desktop\AAW - Atividade 04-20190710T225844Z-001\AAW - Atividade 04\DDD\DDD.Service\obj\Debug\netcoreapp2.1\DDD.Service.csprojAssemblyReference.cache
+C:\Users\638228\Desktop\AAW - Atividade 04-20190710T225844Z-001\AAW - Atividade 04\DDD\DDD.Service\obj\Debug\netcoreapp2.1\DDD.Service.csproj.CoreCompileInputs.cache
+C:\Users\638228\Desktop\AAW - Atividade 04-20190710T225844Z-001\AAW - Atividade 04\DDD\DDD.Service\obj\Debug\netcoreapp2.1\DDD.Service.AssemblyInfoInputs.cache
+C:\Users\638228\Desktop\AAW - Atividade 04-20190710T225844Z-001\AAW - Atividade 04\DDD\DDD.Service\obj\Debug\netcoreapp2.1\DDD.Service.AssemblyInfo.cs
+C:\Users\638228\Desktop\AAW - Atividade 04-20190710T225844Z-001\AAW - Atividade 04\DDD\DDD.Service\obj\Debug\netcoreapp2.1\DDD.Service.csproj.CopyComplete
+C:\Users\638228\Desktop\AAW - Atividade 04-20190710T225844Z-001\AAW - Atividade 04\DDD\DDD.Service\obj\Debug\netcoreapp2.1\DDD.Service.dll
+C:\Users\638228\Desktop\AAW - Atividade 04-20190710T225844Z-001\AAW - Atividade 04\DDD\DDD.Service\obj\Debug\netcoreapp2.1\DDD.Service.pdb

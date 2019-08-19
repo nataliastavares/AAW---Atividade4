@@ -1,0 +1,14 @@
+{
+  "ProjectFilePath": "c:\\Users\\1174755\\DDD.Domain\\DDD.Infra.Data\\DDD.Infra.Data.csproj",
+  "TargetFramework": "netcoreapp2.1",
+  "TagHelpers": [],
+  "Configuration": {
+    "ConfigurationName": "UnsupportedRazor",
+    "LanguageVersion": "1.0",
+    "Extensions": [
+      {
+        "ExtensionName": "UnsupportedRazorExtension"
+      }
+    ]
+  }
+}

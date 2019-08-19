@@ -1,0 +1,56 @@
+C:\Users\1174755\DDD.Application\bin\Debug\netcoreapp2.1\DDD.Application.deps.json
+C:\Users\1174755\DDD.Application\bin\Debug\netcoreapp2.1\DDD.Application.runtimeconfig.json
+C:\Users\1174755\DDD.Application\bin\Debug\netcoreapp2.1\DDD.Application.runtimeconfig.dev.json
+C:\Users\1174755\DDD.Application\bin\Debug\netcoreapp2.1\DDD.Application.dll
+C:\Users\1174755\DDD.Application\bin\Debug\netcoreapp2.1\DDD.Application.pdb
+C:\Users\1174755\DDD.Application\obj\Debug\netcoreapp2.1\DDD.Application.csprojAssemblyReference.cache
+C:\Users\1174755\DDD.Application\obj\Debug\netcoreapp2.1\DDD.Application.csproj.CoreCompileInputs.cache
+C:\Users\1174755\DDD.Application\obj\Debug\netcoreapp2.1\DDD.Application.RazorAssemblyInfo.cache
+C:\Users\1174755\DDD.Application\obj\Debug\netcoreapp2.1\DDD.Application.RazorAssemblyInfo.cs
+C:\Users\1174755\DDD.Application\obj\Debug\netcoreapp2.1\DDD.Application.AssemblyInfoInputs.cache
+C:\Users\1174755\DDD.Application\obj\Debug\netcoreapp2.1\DDD.Application.AssemblyInfo.cs
+C:\Users\1174755\DDD.Application\obj\Debug\netcoreapp2.1\DDD.Application.RazorTargetAssemblyInfo.cache
+C:\Users\1174755\DDD.Application\obj\Debug\netcoreapp2.1\DDD.Application.dll
+C:\Users\1174755\DDD.Application\obj\Debug\netcoreapp2.1\DDD.Application.pdb
+C:\Users\1174755\DDD\DDD.Application\obj\Debug\netcoreapp2.1\DDD.Application.csprojAssemblyReference.cache
+C:\Users\1174755\DDD\DDD.Application\obj\Debug\netcoreapp2.1\DDD.Application.csproj.CoreCompileInputs.cache
+C:\Users\1174755\DDD\DDD.Application\obj\Debug\netcoreapp2.1\DDD.Application.RazorAssemblyInfo.cache
+C:\Users\1174755\DDD\DDD.Application\obj\Debug\netcoreapp2.1\DDD.Application.RazorAssemblyInfo.cs
+C:\Users\1174755\DDD\DDD.Application\obj\Debug\netcoreapp2.1\DDD.Application.AssemblyInfoInputs.cache
+C:\Users\1174755\DDD\DDD.Application\obj\Debug\netcoreapp2.1\DDD.Application.AssemblyInfo.cs
+C:\Users\1174755\DDD\DDD.Application\obj\Debug\netcoreapp2.1\DDD.Application.dll
+C:\Users\1174755\DDD\DDD.Application\obj\Debug\netcoreapp2.1\DDD.Application.pdb
+C:\Users\1174755\DDD\DDD.Application\bin\Debug\netcoreapp2.1\DDD.Application.deps.json
+C:\Users\1174755\DDD\DDD.Application\bin\Debug\netcoreapp2.1\DDD.Application.runtimeconfig.json
+C:\Users\1174755\DDD\DDD.Application\bin\Debug\netcoreapp2.1\DDD.Application.runtimeconfig.dev.json
+C:\Users\1174755\DDD\DDD.Application\bin\Debug\netcoreapp2.1\DDD.Application.dll
+C:\Users\1174755\DDD\DDD.Application\bin\Debug\netcoreapp2.1\DDD.Application.pdb
+C:\Users\1174755\DDD\DDD.Application\bin\Debug\netcoreapp2.1\DDD.Domain.dll
+C:\Users\1174755\DDD\DDD.Application\bin\Debug\netcoreapp2.1\DDD.Infra.Data.dll
+C:\Users\1174755\DDD\DDD.Application\bin\Debug\netcoreapp2.1\DDD.Service.dll
+C:\Users\1174755\DDD\DDD.Application\bin\Debug\netcoreapp2.1\DDD.Domain.pdb
+C:\Users\1174755\DDD\DDD.Application\bin\Debug\netcoreapp2.1\DDD.Service.pdb
+C:\Users\1174755\DDD\DDD.Application\bin\Debug\netcoreapp2.1\DDD.Infra.Data.pdb
+C:\Users\1174755\DDD\DDD.Application\obj\Debug\netcoreapp2.1\DDD.Application.RazorTargetAssemblyInfo.cache
+C:\Users\1174755\DDD\DDD.Application\obj\Debug\netcoreapp2.1\DDD.Application.csproj.CopyComplete
+C:\Users\638228\Desktop\AAW - Atividade 04-20190710T225844Z-001\AAW - Atividade 04\DDD\DDD.Application\bin\Debug\netcoreapp2.1\DDD.Application.deps.json
+C:\Users\638228\Desktop\AAW - Atividade 04-20190710T225844Z-001\AAW - Atividade 04\DDD\DDD.Application\bin\Debug\netcoreapp2.1\DDD.Application.runtimeconfig.json
+C:\Users\638228\Desktop\AAW - Atividade 04-20190710T225844Z-001\AAW - Atividade 04\DDD\DDD.Application\bin\Debug\netcoreapp2.1\DDD.Application.runtimeconfig.dev.json
+C:\Users\638228\Desktop\AAW - Atividade 04-20190710T225844Z-001\AAW - Atividade 04\DDD\DDD.Application\bin\Debug\netcoreapp2.1\DDD.Application.dll
+C:\Users\638228\Desktop\AAW - Atividade 04-20190710T225844Z-001\AAW - Atividade 04\DDD\DDD.Application\bin\Debug\netcoreapp2.1\DDD.Application.pdb
+C:\Users\638228\Desktop\AAW - Atividade 04-20190710T225844Z-001\AAW - Atividade 04\DDD\DDD.Application\bin\Debug\netcoreapp2.1\DDD.Domain.dll
+C:\Users\638228\Desktop\AAW - Atividade 04-20190710T225844Z-001\AAW - Atividade 04\DDD\DDD.Application\bin\Debug\netcoreapp2.1\DDD.Infra.Data.dll
+C:\Users\638228\Desktop\AAW - Atividade 04-20190710T225844Z-001\AAW - Atividade 04\DDD\DDD.Application\bin\Debug\netcoreapp2.1\DDD.Service.dll
+C:\Users\638228\Desktop\AAW - Atividade 04-20190710T225844Z-001\AAW - Atividade 04\DDD\DDD.Application\bin\Debug\netcoreapp2.1\DDD.Domain.pdb
+C:\Users\638228\Desktop\AAW - Atividade 04-20190710T225844Z-001\AAW - Atividade 04\DDD\DDD.Application\bin\Debug\netcoreapp2.1\DDD.Service.pdb
+C:\Users\638228\Desktop\AAW - Atividade 04-20190710T225844Z-001\AAW - Atividade 04\DDD\DDD.Application\bin\Debug\netcoreapp2.1\DDD.Infra.Data.pdb
+C:\Users\638228\Desktop\AAW - Atividade 04-20190710T225844Z-001\AAW - Atividade 04\DDD\DDD.Application\obj\Debug\netcoreapp2.1\DDD.Application.csprojAssemblyReference.cache
+C:\Users\638228\Desktop\AAW - Atividade 04-20190710T225844Z-001\AAW - Atividade 04\DDD\DDD.Application\obj\Debug\netcoreapp2.1\DDD.Application.csproj.CoreCompileInputs.cache
+C:\Users\638228\Desktop\AAW - Atividade 04-20190710T225844Z-001\AAW - Atividade 04\DDD\DDD.Application\obj\Debug\netcoreapp2.1\DDD.Application.RazorAssemblyInfo.cache
+C:\Users\638228\Desktop\AAW - Atividade 04-20190710T225844Z-001\AAW - Atividade 04\DDD\DDD.Application\obj\Debug\netcoreapp2.1\DDD.Application.RazorAssemblyInfo.cs
+C:\Users\638228\Desktop\AAW - Atividade 04-20190710T225844Z-001\AAW - Atividade 04\DDD\DDD.Application\obj\Debug\netcoreapp2.1\DDD.Application.AssemblyInfoInputs.cache
+C:\Users\638228\Desktop\AAW - Atividade 04-20190710T225844Z-001\AAW - Atividade 04\DDD\DDD.Application\obj\Debug\netcoreapp2.1\DDD.Application.AssemblyInfo.cs
+C:\Users\638228\Desktop\AAW - Atividade 04-20190710T225844Z-001\AAW - Atividade 04\DDD\DDD.Application\obj\Debug\netcoreapp2.1\DDD.Application.RazorTargetAssemblyInfo.cache
+C:\Users\638228\Desktop\AAW - Atividade 04-20190710T225844Z-001\AAW - Atividade 04\DDD\DDD.Application\obj\Debug\netcoreapp2.1\DDD.Application.csproj.CopyComplete
+C:\Users\638228\Desktop\AAW - Atividade 04-20190710T225844Z-001\AAW - Atividade 04\DDD\DDD.Application\obj\Debug\netcoreapp2.1\DDD.Application.dll
+C:\Users\638228\Desktop\AAW - Atividade 04-20190710T225844Z-001\AAW - Atividade 04\DDD\DDD.Application\obj\Debug\netcoreapp2.1\DDD.Application.pdb

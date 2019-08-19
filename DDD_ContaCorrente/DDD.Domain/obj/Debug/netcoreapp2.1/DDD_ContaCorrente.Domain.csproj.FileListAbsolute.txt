@@ -1,0 +1,16 @@
+C:\Users\638228\Desktop\AAW - Atividade 04-20190710T225844Z-001\AAW - Atividade 04\DDD_ContaCorrente\DDD.Domain\bin\Debug\netcoreapp2.1\DDD_ContaCorrente.Domain.deps.json
+C:\Users\638228\Desktop\AAW - Atividade 04-20190710T225844Z-001\AAW - Atividade 04\DDD_ContaCorrente\DDD.Domain\bin\Debug\netcoreapp2.1\DDD_ContaCorrente.Domain.dll
+C:\Users\638228\Desktop\AAW - Atividade 04-20190710T225844Z-001\AAW - Atividade 04\DDD_ContaCorrente\DDD.Domain\obj\Debug\netcoreapp2.1\DDD_ContaCorrente.Domain.csproj.CoreCompileInputs.cache
+C:\Users\638228\Desktop\AAW - Atividade 04-20190710T225844Z-001\AAW - Atividade 04\DDD_ContaCorrente\DDD.Domain\obj\Debug\netcoreapp2.1\DDD_ContaCorrente.Domain.AssemblyInfoInputs.cache
+C:\Users\638228\Desktop\AAW - Atividade 04-20190710T225844Z-001\AAW - Atividade 04\DDD_ContaCorrente\DDD.Domain\obj\Debug\netcoreapp2.1\DDD_ContaCorrente.Domain.AssemblyInfo.cs
+C:\Users\638228\Desktop\AAW - Atividade 04-20190710T225844Z-001\AAW - Atividade 04\DDD_ContaCorrente\DDD.Domain\bin\Debug\netcoreapp2.1\DDD_ContaCorrente.Domain.pdb
+C:\Users\638228\Desktop\AAW - Atividade 04-20190710T225844Z-001\AAW - Atividade 04\DDD_ContaCorrente\DDD.Domain\obj\Debug\netcoreapp2.1\DDD_ContaCorrente.Domain.dll
+C:\Users\638228\Desktop\AAW - Atividade 04-20190710T225844Z-001\AAW - Atividade 04\DDD_ContaCorrente\DDD.Domain\obj\Debug\netcoreapp2.1\DDD_ContaCorrente.Domain.pdb
+C:\Users\natal\OneDrive\Documentos\Puc\ASWeb\Atividade 4\AAW - Atividade 04\AAW - Atividade 04\DDD_ContaCorrente\DDD.Domain\bin\Debug\netcoreapp2.1\DDD_ContaCorrente.Domain.deps.json
+C:\Users\natal\OneDrive\Documentos\Puc\ASWeb\Atividade 4\AAW - Atividade 04\AAW - Atividade 04\DDD_ContaCorrente\DDD.Domain\bin\Debug\netcoreapp2.1\DDD_ContaCorrente.Domain.dll
+C:\Users\natal\OneDrive\Documentos\Puc\ASWeb\Atividade 4\AAW - Atividade 04\AAW - Atividade 04\DDD_ContaCorrente\DDD.Domain\bin\Debug\netcoreapp2.1\DDD_ContaCorrente.Domain.pdb
+C:\Users\natal\OneDrive\Documentos\Puc\ASWeb\Atividade 4\AAW - Atividade 04\AAW - Atividade 04\DDD_ContaCorrente\DDD.Domain\obj\Debug\netcoreapp2.1\DDD_ContaCorrente.Domain.csproj.CoreCompileInputs.cache
+C:\Users\natal\OneDrive\Documentos\Puc\ASWeb\Atividade 4\AAW - Atividade 04\AAW - Atividade 04\DDD_ContaCorrente\DDD.Domain\obj\Debug\netcoreapp2.1\DDD_ContaCorrente.Domain.AssemblyInfoInputs.cache
+C:\Users\natal\OneDrive\Documentos\Puc\ASWeb\Atividade 4\AAW - Atividade 04\AAW - Atividade 04\DDD_ContaCorrente\DDD.Domain\obj\Debug\netcoreapp2.1\DDD_ContaCorrente.Domain.AssemblyInfo.cs
+C:\Users\natal\OneDrive\Documentos\Puc\ASWeb\Atividade 4\AAW - Atividade 04\AAW - Atividade 04\DDD_ContaCorrente\DDD.Domain\obj\Debug\netcoreapp2.1\DDD_ContaCorrente.Domain.dll
+C:\Users\natal\OneDrive\Documentos\Puc\ASWeb\Atividade 4\AAW - Atividade 04\AAW - Atividade 04\DDD_ContaCorrente\DDD.Domain\obj\Debug\netcoreapp2.1\DDD_ContaCorrente.Domain.pdb

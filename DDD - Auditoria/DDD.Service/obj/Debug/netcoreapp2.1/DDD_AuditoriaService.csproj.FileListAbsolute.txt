@@ -1,0 +1,28 @@
+C:\Users\638228\Desktop\AAW - Atividade 04-20190710T225844Z-001\AAW - Atividade 04\DDD - Auditoria\DDD.Service\bin\Debug\netcoreapp2.1\DDD_AuditoriaDomain.dll
+C:\Users\638228\Desktop\AAW - Atividade 04-20190710T225844Z-001\AAW - Atividade 04\DDD - Auditoria\DDD.Service\bin\Debug\netcoreapp2.1\DDD_AuditoriaInfra.Data.dll
+C:\Users\638228\Desktop\AAW - Atividade 04-20190710T225844Z-001\AAW - Atividade 04\DDD - Auditoria\DDD.Service\obj\Debug\netcoreapp2.1\DDD_AuditoriaService.csprojAssemblyReference.cache
+C:\Users\638228\Desktop\AAW - Atividade 04-20190710T225844Z-001\AAW - Atividade 04\DDD - Auditoria\DDD.Service\obj\Debug\netcoreapp2.1\DDD_AuditoriaService.csproj.CoreCompileInputs.cache
+C:\Users\638228\Desktop\AAW - Atividade 04-20190710T225844Z-001\AAW - Atividade 04\DDD - Auditoria\DDD.Service\obj\Debug\netcoreapp2.1\DDD_AuditoriaService.AssemblyInfoInputs.cache
+C:\Users\638228\Desktop\AAW - Atividade 04-20190710T225844Z-001\AAW - Atividade 04\DDD - Auditoria\DDD.Service\obj\Debug\netcoreapp2.1\DDD_AuditoriaService.AssemblyInfo.cs
+C:\Users\638228\Desktop\AAW - Atividade 04-20190710T225844Z-001\AAW - Atividade 04\DDD - Auditoria\DDD.Service\bin\Debug\netcoreapp2.1\DDD_AuditoriaService.deps.json
+C:\Users\638228\Desktop\AAW - Atividade 04-20190710T225844Z-001\AAW - Atividade 04\DDD - Auditoria\DDD.Service\bin\Debug\netcoreapp2.1\DDD_AuditoriaService.dll
+C:\Users\638228\Desktop\AAW - Atividade 04-20190710T225844Z-001\AAW - Atividade 04\DDD - Auditoria\DDD.Service\bin\Debug\netcoreapp2.1\DDD_AuditoriaService.pdb
+C:\Users\638228\Desktop\AAW - Atividade 04-20190710T225844Z-001\AAW - Atividade 04\DDD - Auditoria\DDD.Service\bin\Debug\netcoreapp2.1\DDD_AuditoriaDomain.pdb
+C:\Users\638228\Desktop\AAW - Atividade 04-20190710T225844Z-001\AAW - Atividade 04\DDD - Auditoria\DDD.Service\bin\Debug\netcoreapp2.1\DDD_AuditoriaInfra.Data.pdb
+C:\Users\638228\Desktop\AAW - Atividade 04-20190710T225844Z-001\AAW - Atividade 04\DDD - Auditoria\DDD.Service\obj\Debug\netcoreapp2.1\DDD_AuditoriaService.csproj.CopyComplete
+C:\Users\638228\Desktop\AAW - Atividade 04-20190710T225844Z-001\AAW - Atividade 04\DDD - Auditoria\DDD.Service\obj\Debug\netcoreapp2.1\DDD_AuditoriaService.dll
+C:\Users\638228\Desktop\AAW - Atividade 04-20190710T225844Z-001\AAW - Atividade 04\DDD - Auditoria\DDD.Service\obj\Debug\netcoreapp2.1\DDD_AuditoriaService.pdb
+C:\Users\natal\OneDrive\Documentos\Puc\ASWeb\Atividade 4\AAW - Atividade 04\AAW - Atividade 04\DDD - Auditoria\DDD.Service\bin\Debug\netcoreapp2.1\DDD_AuditoriaService.deps.json
+C:\Users\natal\OneDrive\Documentos\Puc\ASWeb\Atividade 4\AAW - Atividade 04\AAW - Atividade 04\DDD - Auditoria\DDD.Service\bin\Debug\netcoreapp2.1\DDD_AuditoriaService.dll
+C:\Users\natal\OneDrive\Documentos\Puc\ASWeb\Atividade 4\AAW - Atividade 04\AAW - Atividade 04\DDD - Auditoria\DDD.Service\bin\Debug\netcoreapp2.1\DDD_AuditoriaService.pdb
+C:\Users\natal\OneDrive\Documentos\Puc\ASWeb\Atividade 4\AAW - Atividade 04\AAW - Atividade 04\DDD - Auditoria\DDD.Service\bin\Debug\netcoreapp2.1\DDD_AuditoriaDomain.dll
+C:\Users\natal\OneDrive\Documentos\Puc\ASWeb\Atividade 4\AAW - Atividade 04\AAW - Atividade 04\DDD - Auditoria\DDD.Service\bin\Debug\netcoreapp2.1\DDD_AuditoriaInfra.Data.dll
+C:\Users\natal\OneDrive\Documentos\Puc\ASWeb\Atividade 4\AAW - Atividade 04\AAW - Atividade 04\DDD - Auditoria\DDD.Service\bin\Debug\netcoreapp2.1\DDD_AuditoriaDomain.pdb
+C:\Users\natal\OneDrive\Documentos\Puc\ASWeb\Atividade 4\AAW - Atividade 04\AAW - Atividade 04\DDD - Auditoria\DDD.Service\bin\Debug\netcoreapp2.1\DDD_AuditoriaInfra.Data.pdb
+C:\Users\natal\OneDrive\Documentos\Puc\ASWeb\Atividade 4\AAW - Atividade 04\AAW - Atividade 04\DDD - Auditoria\DDD.Service\obj\Debug\netcoreapp2.1\DDD_AuditoriaService.csprojAssemblyReference.cache
+C:\Users\natal\OneDrive\Documentos\Puc\ASWeb\Atividade 4\AAW - Atividade 04\AAW - Atividade 04\DDD - Auditoria\DDD.Service\obj\Debug\netcoreapp2.1\DDD_AuditoriaService.csproj.CoreCompileInputs.cache
+C:\Users\natal\OneDrive\Documentos\Puc\ASWeb\Atividade 4\AAW - Atividade 04\AAW - Atividade 04\DDD - Auditoria\DDD.Service\obj\Debug\netcoreapp2.1\DDD_AuditoriaService.AssemblyInfoInputs.cache
+C:\Users\natal\OneDrive\Documentos\Puc\ASWeb\Atividade 4\AAW - Atividade 04\AAW - Atividade 04\DDD - Auditoria\DDD.Service\obj\Debug\netcoreapp2.1\DDD_AuditoriaService.AssemblyInfo.cs
+C:\Users\natal\OneDrive\Documentos\Puc\ASWeb\Atividade 4\AAW - Atividade 04\AAW - Atividade 04\DDD - Auditoria\DDD.Service\obj\Debug\netcoreapp2.1\DDD_AuditoriaService.csproj.CopyComplete
+C:\Users\natal\OneDrive\Documentos\Puc\ASWeb\Atividade 4\AAW - Atividade 04\AAW - Atividade 04\DDD - Auditoria\DDD.Service\obj\Debug\netcoreapp2.1\DDD_AuditoriaService.dll
+C:\Users\natal\OneDrive\Documentos\Puc\ASWeb\Atividade 4\AAW - Atividade 04\AAW - Atividade 04\DDD - Auditoria\DDD.Service\obj\Debug\netcoreapp2.1\DDD_AuditoriaService.pdb

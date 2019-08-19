@@ -1,0 +1,14 @@
+C:\Users\638228\Desktop\AAW - Atividade 04-20190710T225844Z-001\AAW - Atividade 04\DDD_ContaCorrente\DDD.Service\bin\Debug\netcoreapp2.1\DDD_Conta Corrente.Service.deps.json
+C:\Users\638228\Desktop\AAW - Atividade 04-20190710T225844Z-001\AAW - Atividade 04\DDD_ContaCorrente\DDD.Service\bin\Debug\netcoreapp2.1\DDD_Conta Corrente.Service.dll
+C:\Users\638228\Desktop\AAW - Atividade 04-20190710T225844Z-001\AAW - Atividade 04\DDD_ContaCorrente\DDD.Service\bin\Debug\netcoreapp2.1\DDD_Conta Corrente.Service.pdb
+C:\Users\638228\Desktop\AAW - Atividade 04-20190710T225844Z-001\AAW - Atividade 04\DDD_ContaCorrente\DDD.Service\bin\Debug\netcoreapp2.1\DDD_Conta Corrente.Domain.dll
+C:\Users\638228\Desktop\AAW - Atividade 04-20190710T225844Z-001\AAW - Atividade 04\DDD_ContaCorrente\DDD.Service\bin\Debug\netcoreapp2.1\DDD_Conta Corrente.Infra.Data.dll
+C:\Users\638228\Desktop\AAW - Atividade 04-20190710T225844Z-001\AAW - Atividade 04\DDD_ContaCorrente\DDD.Service\bin\Debug\netcoreapp2.1\DDD_Conta Corrente.Domain.pdb
+C:\Users\638228\Desktop\AAW - Atividade 04-20190710T225844Z-001\AAW - Atividade 04\DDD_ContaCorrente\DDD.Service\bin\Debug\netcoreapp2.1\DDD_Conta Corrente.Infra.Data.pdb
+C:\Users\638228\Desktop\AAW - Atividade 04-20190710T225844Z-001\AAW - Atividade 04\DDD_ContaCorrente\DDD.Service\obj\Debug\netcoreapp2.1\DDD_Conta Corrente.Service.csprojAssemblyReference.cache
+C:\Users\638228\Desktop\AAW - Atividade 04-20190710T225844Z-001\AAW - Atividade 04\DDD_ContaCorrente\DDD.Service\obj\Debug\netcoreapp2.1\DDD_Conta Corrente.Service.csproj.CoreCompileInputs.cache
+C:\Users\638228\Desktop\AAW - Atividade 04-20190710T225844Z-001\AAW - Atividade 04\DDD_ContaCorrente\DDD.Service\obj\Debug\netcoreapp2.1\DDD_Conta Corrente.Service.AssemblyInfoInputs.cache
+C:\Users\638228\Desktop\AAW - Atividade 04-20190710T225844Z-001\AAW - Atividade 04\DDD_ContaCorrente\DDD.Service\obj\Debug\netcoreapp2.1\DDD_Conta Corrente.Service.AssemblyInfo.cs
+C:\Users\638228\Desktop\AAW - Atividade 04-20190710T225844Z-001\AAW - Atividade 04\DDD_ContaCorrente\DDD.Service\obj\Debug\netcoreapp2.1\DDD_Conta Corrente.Service.csproj.CopyComplete
+C:\Users\638228\Desktop\AAW - Atividade 04-20190710T225844Z-001\AAW - Atividade 04\DDD_ContaCorrente\DDD.Service\obj\Debug\netcoreapp2.1\DDD_Conta Corrente.Service.dll
+C:\Users\638228\Desktop\AAW - Atividade 04-20190710T225844Z-001\AAW - Atividade 04\DDD_ContaCorrente\DDD.Service\obj\Debug\netcoreapp2.1\DDD_Conta Corrente.Service.pdb

@@ -1,0 +1,22 @@
+C:\Users\1174755\DDD.Domain\obj\Debug\netcoreapp2.1\DDD.Domain.csprojAssemblyReference.cache
+C:\Users\1174755\DDD.Domain\obj\Debug\netcoreapp2.1\DDD.Domain.csproj.CoreCompileInputs.cache
+C:\Users\1174755\DDD.Domain\obj\Debug\netcoreapp2.1\DDD.Domain.AssemblyInfoInputs.cache
+C:\Users\1174755\DDD.Domain\obj\Debug\netcoreapp2.1\DDD.Domain.AssemblyInfo.cs
+C:\Users\1174755\DDD\DDD.Domain\bin\Debug\netcoreapp2.1\DDD.Domain.deps.json
+C:\Users\1174755\DDD\DDD.Domain\bin\Debug\netcoreapp2.1\DDD.Domain.dll
+C:\Users\1174755\DDD\DDD.Domain\bin\Debug\netcoreapp2.1\DDD.Domain.pdb
+C:\Users\1174755\DDD\DDD.Domain\obj\Debug\netcoreapp2.1\DDD.Domain.csprojAssemblyReference.cache
+C:\Users\1174755\DDD\DDD.Domain\obj\Debug\netcoreapp2.1\DDD.Domain.csproj.CoreCompileInputs.cache
+C:\Users\1174755\DDD\DDD.Domain\obj\Debug\netcoreapp2.1\DDD.Domain.AssemblyInfoInputs.cache
+C:\Users\1174755\DDD\DDD.Domain\obj\Debug\netcoreapp2.1\DDD.Domain.AssemblyInfo.cs
+C:\Users\1174755\DDD\DDD.Domain\obj\Debug\netcoreapp2.1\DDD.Domain.dll
+C:\Users\1174755\DDD\DDD.Domain\obj\Debug\netcoreapp2.1\DDD.Domain.pdb
+C:\Users\638228\Desktop\AAW - Atividade 04-20190710T225844Z-001\AAW - Atividade 04\DDD\DDD.Domain\bin\Debug\netcoreapp2.1\DDD.Domain.deps.json
+C:\Users\638228\Desktop\AAW - Atividade 04-20190710T225844Z-001\AAW - Atividade 04\DDD\DDD.Domain\bin\Debug\netcoreapp2.1\DDD.Domain.dll
+C:\Users\638228\Desktop\AAW - Atividade 04-20190710T225844Z-001\AAW - Atividade 04\DDD\DDD.Domain\bin\Debug\netcoreapp2.1\DDD.Domain.pdb
+C:\Users\638228\Desktop\AAW - Atividade 04-20190710T225844Z-001\AAW - Atividade 04\DDD\DDD.Domain\obj\Debug\netcoreapp2.1\DDD.Domain.csprojAssemblyReference.cache
+C:\Users\638228\Desktop\AAW - Atividade 04-20190710T225844Z-001\AAW - Atividade 04\DDD\DDD.Domain\obj\Debug\netcoreapp2.1\DDD.Domain.csproj.CoreCompileInputs.cache
+C:\Users\638228\Desktop\AAW - Atividade 04-20190710T225844Z-001\AAW - Atividade 04\DDD\DDD.Domain\obj\Debug\netcoreapp2.1\DDD.Domain.AssemblyInfoInputs.cache
+C:\Users\638228\Desktop\AAW - Atividade 04-20190710T225844Z-001\AAW - Atividade 04\DDD\DDD.Domain\obj\Debug\netcoreapp2.1\DDD.Domain.AssemblyInfo.cs
+C:\Users\638228\Desktop\AAW - Atividade 04-20190710T225844Z-001\AAW - Atividade 04\DDD\DDD.Domain\obj\Debug\netcoreapp2.1\DDD.Domain.dll
+C:\Users\638228\Desktop\AAW - Atividade 04-20190710T225844Z-001\AAW - Atividade 04\DDD\DDD.Domain\obj\Debug\netcoreapp2.1\DDD.Domain.pdb
